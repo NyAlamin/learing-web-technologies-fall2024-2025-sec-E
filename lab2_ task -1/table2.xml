@@ -1,0 +1,34 @@
+<buyer sr="1">
+    <Addmission sr="23">
+            <name>John Carter</name>
+            <add_date>
+               <day>25</day>
+               <month>12</month>
+               <year>2015</year>
+            </add_date>
+    
+    </Addmission>
+    
+    <Addmission sr="29">
+            <name>Bob Marshal</name>
+            <add_date>
+               <day>13</day>
+               <month>01</month>
+               <year>1999</year>
+            </add_date>
+    
+    </Addmission>
+      <serial sr="35">
+            <name>Clark kent</name>
+            <add_date>
+               <day>17</day>
+               <month>06</month>
+               <year>2005</year>
+            </add_date>
+    
+    </Addmission>
+
+
+
+
+</buyer>
